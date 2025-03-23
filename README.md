@@ -108,8 +108,7 @@ PORT=8080
 SHORTLINK=True
 SHORTLINK_API=3c6b334763d6ef2e5325149b8e37fcd772591a6e
 SHORTLINK_URL=gplinks.com
-URL=url of mongo db like this #https://driving-darcee-ashiftechs-1254d869.koyeb.app/
-
+URL=url of mongo db like this https://driving-darcee-ashiftechs-1254d869.koyeb.app/
 ```
   </details>
 
