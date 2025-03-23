@@ -98,14 +98,18 @@ or if you're Locally hosting, create a file named `config.env` in the root direc
 An example of `config.env` file:
 
 ```py
-API_ID=12345
-API_HASH=esx576f8738x883f3sfzx83
-BOT_TOKEN=55838383:yourtbottokenhere
-BIN_CHANNEL=-100
+ADMINS=12345678
+API_HASH=1234567891012123145
+API_ID=12345678
+BOT_TOKEN=@BotFather
+DATABASE_URI=mongo_db_url
+LOG_CHANNEL=Get From @MissRose_bot
 PORT=8080
-FQDN=your_server_ip
-OWNER_ID=your_user_id
-DATABASE_URL=mongodb_uri
+SHORTLINK=True
+SHORTLINK_API=3c6b334763d6ef2e5325149b8e37fcd772591a6e
+SHORTLINK_URL=gplinks.com
+URL=url of mongo db like this #https://driving-darcee-ashiftechs-1254d869.koyeb.app/
+
 ```
   </details>
 
