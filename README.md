@@ -21,7 +21,7 @@
 
 ## 🍁 About This Bot :
 
-![streamingfilestreambot-professional-live_1](https://user-images.githubusercontent.com/88939380/137127129-a86fc939-2931-4c66-b6f6-b57711a9eab7.png)
+![streamingfilestreambot-professional-live_1](https://cdn.jsdelivr.net/gh/MrGhostsx/Resources@main/Images/137127129-a86fc939-2931-4c66-b6f6-b57711a9eab7.png)
 
 </p>
 <p align='center'>
