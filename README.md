@@ -1,6 +1,6 @@
 <h1 align="center"></h1>
 <p align="center"> 
-  <img src="https://cdn.jsdelivr.net/gh/MrGhostsx/Resources@main/Images/screencaptuestream.png" alt="Mr Ghosts LOGO" width="650">
+  <img src="https://cdn.jsdelivr.net/gh/MrGhostsx/Resources@main/Images/screencapture-sporting-greer-ashiftechs-307532f6-koyeb-app-watch-17-2025-03-24-15_58_41.png" alt="Mr Ghosts LOGO" width="650">
   </a>
   
  <p align="center">
