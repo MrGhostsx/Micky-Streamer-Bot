@@ -159,7 +159,7 @@ URL=url of mongo db like this https://driving-darcee-ashiftechs-1254d869.koyeb.a
 
 To get an instant stream link, just forward any media to the bot and boom, its fast af.
   
-![image](https://cdn.jsdelivr.net/gh/MrGhostsx/Resources@main/Images/screencaptuestream.png)
+![image](https://cdn.jsdelivr.net/gh/MrGhostsx/Resources@main/Images/Screenshot_2025-03-24-20-57-20-454_app.mdgram.android.jpg)
 
 
 ### Channel Support
