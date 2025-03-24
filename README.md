@@ -1,6 +1,6 @@
 <h1 align="center"></h1>
 <p align="center"> 
-  <img src="https://telegra.ph/file/f2c253c5b0b747042cf4c.png" alt="Lazy Streamer LOGO" width="650">
+  <img src="https://cdn.jsdelivr.net/gh/MrGhostsx/Resources@main/Images/screencaptuestream.png" alt="Mr Ghosts LOGO" width="650">
   </a>
   
  <p align="center">
@@ -8,9 +8,9 @@
     <br />
    </strong></a>
     <br />
-    <a href="https://github.com/LazyDeveloperr/Lazy-Streamer-BOT/issues">Report a Bug</a>
+    <a href="https://github.com/MrGhostsx/Micky-Streamer-Bot/issues">Report a Bug</a>
     |
-    <a href="https://github.com/LazyDeveloperr/Lazy-Streamer-BOT/issues">Request Feature</a>
+    <a href="https://github.com/MrGhostsx/Micky-Streamer-Bot/issues">Request Feature</a>
   </p>
 
 
@@ -80,12 +80,12 @@ then goto the <a href="#mandatory-vars">variables tab</a> for more info on setti
 
 
 ```py
-git clone https://github.com/LazyDeveloperr/Lazy-Streamer-BOT
+git clone https://github.com/MrGhostsx/Micky-Streamer-Bot
 cd filestreambot-pro
 virtualenv -p /usr/bin/python3 venv
 . ./venv/bin/activate
 pip install -r requirements.txt
-python3 -m Adarsh
+python3 -m bot.py
 ```
 
 and to stop the whole bot,
@@ -166,6 +166,6 @@ To get an instant stream link, just forward any media to the bot and boom, its f
 Bot also Supported with Channels. Just add bot Channel as Admin. If any new file comes in Channel it will edit it with **Get Download Link** Button. </details>
 
 ### Credits : 
-- ❤️ Thank You sir [LazyDeveloper](https://github.com/LazyDeveloperr) for helping us in this journey. ❤️
-- [Adarsh-Goel](https://github.com/adarsh-goel)
+- ❤️ Thank You sir [Mr Ghosts](https://github.com/MrGhostsx) for helping us in this journey. ❤️
+- [Tech Shreyanshl](https://github.com/TechyShreyanshl)
 - And Everyone In This Journey !
